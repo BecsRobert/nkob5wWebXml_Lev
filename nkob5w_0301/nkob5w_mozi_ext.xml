@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mozi xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="mozi_ext.xsd">
+    <film id="txn_nxm_2jb" mufaj="horror">
+        <rendezo id="nzk_4xm_2jb" nev="alex"/>
+        <szinesz id="u5q_4xm_2jb" nev="Madison_Ivy" />
+        <iro id="trv_4xm_2jb"/>
+    </film>
+    <rendezo id="abc_4rf_5rt" nev="John_Doe">
+        <gyerek1 id="h8z_5tr_3sa" nev="Bela"/>
+        <gyerek2 id="g1y_5tr_m9u" nev="Jani"/>
+    </rendezo>
+</mozi>

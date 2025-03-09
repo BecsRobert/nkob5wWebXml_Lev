@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NKOB5W_orarend xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="nkob5w_orarend.xsd">
+    <ora id="ora1" tipus="előadás">
+        <kurzus>Webkönyvtárak</kurzus>
+        <idopont>
+            <datum>2025.03.01.</datum>
+            <nap>Szombat</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>Kabar Tantermi</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>Programtervező Informatikus Bsc</szak>
+    </ora>
+    <ora id="ora2" tipus="előadás">
+        <kurzus>Komputergrafika és kékpfeldolgozás</kurzus>
+        <idopont>
+            <datum>2025.03.07.</datum>
+            <nap>Péntek</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>Online</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>Programtervező Informatikus Bsc</szak>
+    </ora>
+    <ora id="ora3" tipus="előadás">
+        <kurzus>Alkalmazás fejlesztése projekt labor II.</kurzus>
+        <idopont>
+            <datum>2025.03.08.</datum>
+            <nap>Szombat</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>Kabar Tantermi</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>Programtervező Informatikus Bsc</szak>
+    </ora>
+    <ora id="ora4" tipus="előadás">
+        <kurzus>Szoftverjog és biztonságtechnika</kurzus>
+        <idopont>
+            <datum>2025.03.21.</datum>
+            <nap>Péntek</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>Nincs megjelölve</helyszin>
+        <oktato>Szekér Zoltán</oktato>
+        <szak>Programtervező Informatikus Bsc</szak>
+    </ora>
+    <ora id="ora5" tipus="előadás">
+        <kurzus>Alkalmazás fejlesztése projekt labor II.</kurzus>
+        <idopont>
+            <datum>2025.04.05.</datum>
+            <nap>Szombat</nap>
+            <tol>09:00</tol>
+            <ig>12:55</ig>
+        </idopont>
+        <helyszin>Nincs megjelölve</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>Programtervező Informatikus Bsc</szak>
+    </ora>
+    <ora id="ora6" tipus="előadás">
+        <kurzus>Oktatás és gamifikáció, videójáték tanulmányok</kurzus>
+        <idopont>
+            <datum>2025.04.05.</datum>
+            <nap>Szombat</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>Nincs megjelölve</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>Programtervező Informatikus Bsc</szak>
+    </ora>
+    <ora id="ora7" tipus="előadás">
+        <kurzus>Webkönyvtárak</kurzus>
+        <idopont>
+            <datum>2025.04.25.</datum>
+            <nap>Péntek</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>Nincs megjelölve</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>Programtervező Informatikus Bsc</szak>
+    </ora>
+    <ora id="ora8" tipus="előadás">
+        <kurzus>Komputergrafika és képfeldolgozás</kurzus>
+        <idopont>
+            <datum>2025.05.09.</datum>
+            <nap>Péntek</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>Nincs megjelölve</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>Programtervező Informatikus Bsc</szak>
+    </ora>
+    <ora id="ora9" tipus="előadás">
+        <kurzus>Oktatás és gamifikáció, videójáték tanulmányok</kurzus>
+        <idopont>
+            <datum>2025.05.10.</datum>
+            <nap>Szombat</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>Nincs megjelölve</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>Programtervező Informatikus Bsc</szak>
+    </ora>
+    <ora id="ora10" tipus="előadás">
+        <kurzus>Oktatás és gamifikáció, videójáték tanulmányok</kurzus>
+        <idopont>
+            <datum>2025.05.16.</datum>
+            <nap>Péntek</nap>
+            <tol>13:30</tol>
+            <ig>17:30</ig>
+        </idopont>
+        <helyszin>Nincs megjelölve</helyszin>
+        <oktato>Perlaki Attila</oktato>
+        <szak>Programtervező Informatikus Bsc</szak>
+    </ora>
+</NKOB5W_orarend>
